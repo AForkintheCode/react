@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/react,/static/css/main.08712b0b.css",
-    "main.js": "/react,/static/js/main.feefcee8.js",
-    "static/media/yelp.png": "/react,/static/media/yelp.bea8ff6df43a29aaa676.png",
-    "static/media/boop.jpeg": "/react,/static/media/boop.2cf1a03aeaa678613d09.jpeg",
-    "static/media/blog.JPG": "/react,/static/media/blog.bf12b1c400591d326b0f.JPG",
-    "static/media/weather.png": "/react,/static/media/weather.410fe4fa492aaa8ab12b.png",
-    "static/media/notepad.png": "/react,/static/media/notepad.68d4702357438c4c8398.png",
-    "index.html": "/react,/index.html",
-    "main.08712b0b.css.map": "/react,/static/css/main.08712b0b.css.map",
-    "main.feefcee8.js.map": "/react,/static/js/main.feefcee8.js.map"
+    "main.css": "/react/static/css/main.08712b0b.css",
+    "main.js": "/react/static/js/main.e36394ab.js",
+    "static/media/yelp.png": "/react/static/media/yelp.bea8ff6df43a29aaa676.png",
+    "static/media/boop.jpeg": "/react/static/media/boop.2cf1a03aeaa678613d09.jpeg",
+    "static/media/blog.JPG": "/react/static/media/blog.bf12b1c400591d326b0f.JPG",
+    "static/media/weather.png": "/react/static/media/weather.410fe4fa492aaa8ab12b.png",
+    "static/media/notepad.png": "/react/static/media/notepad.68d4702357438c4c8398.png",
+    "index.html": "/react/index.html",
+    "main.08712b0b.css.map": "/react/static/css/main.08712b0b.css.map",
+    "main.e36394ab.js.map": "/react/static/js/main.e36394ab.js.map"
   },
   "entrypoints": [
     "static/css/main.08712b0b.css",
-    "static/js/main.feefcee8.js"
+    "static/js/main.e36394ab.js"
   ]
 }
