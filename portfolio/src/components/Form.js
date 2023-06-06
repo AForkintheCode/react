@@ -31,7 +31,7 @@ function Form() {
     e.preventDefault();
 
     if(firstName.length === 0 || lastName.length === 0) {
-      setErrorMessage('Required field!')
+      setErrorMessage('Required field missing!')
       alert(errorMessage)
       return;
     } else if (!validateEmail(email)) {

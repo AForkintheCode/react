@@ -4,7 +4,7 @@ import Project from '../Project'
 
 import pet from '../images/boop.jpeg'
 import weather from '../images/weather.png'
-import blog from '../images/blog.JPG'
+import rave from '../images/rave.png'
 import yelp from '../images/yelp.png'
 import notepad from '../images/notepad.png'
 
@@ -14,7 +14,7 @@ const styles = {
     marginLeft: 'auto',
     marginRight: 'auto',
     padding: '10px',
-    justifyContent: 'center'
+    justifyContent: 'center',
   },
   Row: {
     display: 'flex',
@@ -52,9 +52,9 @@ export default function Portfolio() {
       </div>
       <div className="row" style={styles.Row}>
         <div className="col">
-          <a href="https://aforkinthecode.github.io/blog/" style={styles.Link}>
-            <Project img = {blog} name="Blog" 
-            description="A tech blog to keep you updated on daily happenings"/>
+          <a href="https://rave-buddy.herokuapp.com/" style={styles.Link}>
+            <Project img = {rave} name="Rave Buddy" 
+            description="RaveBuddy app"/>
           </a>
           </div>
           <div className="col">
